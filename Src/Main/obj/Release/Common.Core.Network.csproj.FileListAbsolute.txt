@@ -1,0 +1,3 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Network\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Network.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Network\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Network.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Network\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Network.dll
